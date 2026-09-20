@@ -31,6 +31,7 @@ Dataset → Training → Testing → Prediction
 This is a small experimental dataset created for learning purposes.
 
 ## 🔗 Model
+https://teachablemachine.withgoogle.com/models/3mhvJpJNM/
 
 [Try the Cat vs Dog Classifier](https://teachablemachine.withgoogle.com/models/3mhvJpJNM/)
 
